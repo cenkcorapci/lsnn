@@ -1,0 +1,6 @@
+numpy==1.17.2
+torch==1.3.1
+bindsnet==0.2.5
+torch-vision==0.1.6.dev0
+tensorboard==2.0.1
+tqdm==4.19.9
